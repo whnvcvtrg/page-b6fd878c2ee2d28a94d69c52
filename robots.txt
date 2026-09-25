@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.61sog.cn/sitemap.xml
